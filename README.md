@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-мне очень нравится этот курс
+Автоматизация тестирования с помощью Selenium и Python
